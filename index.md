@@ -3,6 +3,8 @@ icon: home
 title: Forside
 ---
 
+![HYGGENS](/img/main.png)
+
 # Velkommen til HYGGENS WIKI
 
 Her vil der være guides til de forskellige plugins. 
