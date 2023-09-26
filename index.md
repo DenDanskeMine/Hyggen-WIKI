@@ -3,7 +3,7 @@ icon: home
 title: Forside
 ---
 
-![HYGGENS](/img/main.png)
+![](/img/main.png)
 
 # Velkommen til HYGGENS WIKI
 
