@@ -1,3 +1,8 @@
+---
+icon: home
+title: Forside
+---
+
 # Velkommen til HYGGENS WIKI
 
 Her vil der være guides til de forskellige plugins. 
