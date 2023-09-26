@@ -1,6 +1,6 @@
 ---
 
-icon: shop
+icon: graph
 title: Player Shops
 
 ---
