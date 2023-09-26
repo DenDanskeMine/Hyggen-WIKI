@@ -2,8 +2,8 @@ input: .
 output: .retype
 url: wiki.hyggen.online
 branding:
-  title: Hyggen
-  label: Docs
+  logo: img/hyggen.png
+  label: WIKI
 links:
 - text: Getting Started
   link: https://retype.com/guides/getting-started/
